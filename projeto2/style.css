@@ -1,0 +1,70 @@
+.imagem {
+  margin-top: 66px;
+  padding-bottom: 38px;
+  display: flex;
+  justify-content: center;
+}
+.titulo {
+  color: #3f3d56;
+  display: flex;
+  justify-content: center;
+  font-family: "Dosis", sans-serif;
+  font-size: 32px;
+  line-height: 45px;
+  font-weight: 500;
+}
+.titulo span {
+  color: #ee24ff;
+}
+.text {
+  margin: auto;
+  width: 540px;
+  height: 107px;
+  text-align: center;
+  color: #828282;
+  font-size: 15px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 22px;
+}
+.text span {
+  color: #3f3d56;
+  font-weight: 700;
+}
+.line {
+  position: absolute;
+  left: 850px;
+  top: 680px;
+  width: 391px;
+  border: 1px solid #eceff2;
+  height: 0;
+}
+.contato {
+  display: flex;
+  position: absolute;
+  top: 53%;
+  left: 34%;
+  margin: 130px;
+}
+.contato p {
+  color: #3f3d56;
+  font-size: 22px;
+  margin-left: 42px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+}
+.contato a {
+  text-decoration: none;
+}
+.wave {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  position: absolute;
+  top: 79%;
+  right: 0px;
+}
+.wave img {
+width: 100%;
+}
